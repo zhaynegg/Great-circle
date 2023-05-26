@@ -1,0 +1,10 @@
+C:\Users\root\source\repos\Drawing pad\Drawing pad\bin\Debug\Drawing pad.exe.config
+C:\Users\root\source\repos\Drawing pad\Drawing pad\bin\Debug\Drawing pad.exe
+C:\Users\root\source\repos\Drawing pad\Drawing pad\bin\Debug\Drawing pad.pdb
+C:\Users\root\source\repos\Drawing pad\Drawing pad\obj\Debug\Drawing pad.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\Drawing pad\Drawing pad\obj\Debug\Drawing_pad.Form1.resources
+C:\Users\root\source\repos\Drawing pad\Drawing pad\obj\Debug\Drawing_pad.Properties.Resources.resources
+C:\Users\root\source\repos\Drawing pad\Drawing pad\obj\Debug\Drawing pad.csproj.GenerateResource.cache
+C:\Users\root\source\repos\Drawing pad\Drawing pad\obj\Debug\Drawing pad.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Drawing pad\Drawing pad\obj\Debug\Drawing pad.exe
+C:\Users\root\source\repos\Drawing pad\Drawing pad\obj\Debug\Drawing pad.pdb
